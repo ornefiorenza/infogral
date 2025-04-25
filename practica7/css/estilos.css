@@ -1,0 +1,16 @@
+/*SELECTORES DE ETIQUETA casi no se usa*/
+h1 {color: rgb(107, 53, 3);}
+h2 {color: rgb(172, 3, 3)}
+h3 {color:rgb(209, 94, 0)}
+h4 {color: rgb(211, 0, 53);}
+h5 {color: red;}
+h6 {color: rgb(255, 0, 98);}
+p {font-family: Verdana, Geneva, Tahoma, sans-serif;}
+p {color: black;}
+/*SELECTORES DE CLASE se usa para estilos repetitivos*/
+   .backpic {background-image: url(img/banner.avif)}
+   .pstroke {font-size: xx-large;}
+   .backgray {background-color: rgba(136, 136, 136, 0.247);}
+/*SELECTORES DE IDENTIFICADOR es el selector mas especifico*/
+#back{background-color: rgba(218, 165, 32, 0.329);}
+#strong{background-color: yellow;}
