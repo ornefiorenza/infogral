@@ -1,3 +1,22 @@
 .bkgcolor {
     background-color: #ff000d;
 }
+div {background-color: rgba(255, 92, 92, 0.521);}
+span {background-color: yellow;}
+
+/*ASI SE PONE EL NAV HORIZONTAL*/
+nav ul{
+    margin: 0;
+    padding: 2em;
+    list-style-type: none;
+
+}
+nav li{
+    display: inline-block;
+}
+nav a {
+    background-color: rgba(255, 174, 0, 0.486);
+    padding: 1em;
+    line-height: 1em;
+}
+/*ASI SE PONE EL NAV HORIZONTAL*/
